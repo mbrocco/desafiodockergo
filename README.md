@@ -1,5 +1,5 @@
 # Desafio Docker Go - FullCycle
-Repositorio utilizado no treinamento FullCycle
+Repositório utilizado no treinamento FullCycle
 
 #### Realização do desafio docker para gerar uma imagem com Golang e um tamanho menor que 2MB.
 
